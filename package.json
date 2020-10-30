@@ -1,0 +1,21 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Using MySQL, Express, Node, Handlebars and a homemade ORM, I will be creating an app called \"Eat-Da-Burger\". This app will allow users to input the name of the burger they desire to consume and with the click of a button, the burger will be consumed. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kayywan/burger"
+  },
+  "author": "Keith Wan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.3.5"
+  }
+}
